@@ -1,0 +1,23 @@
+{
+  "name": "improve-code-ui",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Daniel Canqui"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "java",
+    "javascritp",
+    "angular",
+    "codemirror"
+  ],
+  "homepage": "https://github.com/exiach/improveCodeFrontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
