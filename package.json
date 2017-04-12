@@ -10,7 +10,21 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exiach/improveCodeBackend.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "javascript",
+    "compiler"
+  ],
   "private": true,
+    "author": "Daniel Canqui",
+  "bugs": {
+    "url": "https://github.com/exiach/improveCodeBackend/issues"
+  },
+  "homepage": "https://github.com/exiach/improveCodeBackend#readme",
   "dependencies": {
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
